@@ -1,0 +1,7 @@
+{
+    "name": "acirtautas/demo-composer-pkg",
+    "description": "Composer pkg demo",
+    "autoload": {
+        "psr-0": {"Demo\\Pkg\\": "src/"}
+    }
+}
