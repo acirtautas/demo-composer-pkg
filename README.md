@@ -6,7 +6,7 @@ Quick demo on using composer pkg
 Installation
 ------------
 
-Prepare envinroment using [COMPOSER]: http://getcomposer.org
+Prepare envinroment using [__COMPOSER__](http://getcomposer.org)
 
         curl -s https://getcomposer.org/installer | php
         php composer.phar install
@@ -14,4 +14,4 @@ Prepare envinroment using [COMPOSER]: http://getcomposer.org
 
 Update envinroment
 
-        php composer update
+        php composer.phar update
